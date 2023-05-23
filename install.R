@@ -1,0 +1,5 @@
+install.packages("grDevices")
+install.packages("consort")
+install.packages("parallel")
+install.packages("tab")
+install.packages("survrm2")
